@@ -1,0 +1,1050 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"gx",
+				"gxpj_main	(gxpj_main.php)"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bod",
+				"border-bottom"
+			],
+			[
+				"on",
+				"none"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mat",
+				"margin-bottom"
+			],
+			[
+				"deta",
+				"detail	(course.html)"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ins",
+				"institude"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"foot",
+				"foot_container"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"de",
+				"decimal_style"
+			],
+			[
+				"list",
+				"list-dc	list-style-type: decimal;"
+			],
+			[
+				"an",
+				"analyze_model"
+			],
+			[
+				"aft",
+				"after"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"vr",
+				"vertical-align"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"rg",
+				"rgba"
+			],
+			[
+				"bac",
+				"bac	CSS background: #fff url('') 0 0 repeat;"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"ind",
+				"index_bg"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"sub",
+				"sub_nav"
+			],
+			[
+				"off",
+				"offsetWidth"
+			],
+			[
+				"st",
+				"style	(index.html)"
+			],
+			[
+				"ui",
+				"ulId"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"ps",
+				"position	(app.css)"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"hig",
+				"height"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"ri",
+				"rigth_weibo"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"it",
+				"italic	(app.css)"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"lie",
+				"line-height"
+			],
+			[
+				"mi",
+				"middle	(screen.css)"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"cla",
+				"clear"
+			],
+			[
+				"na",
+				"navgator"
+			],
+			[
+				"I",
+				"italic"
+			],
+			[
+				"cn",
+				"cn_title"
+			],
+			[
+				"a",
+				"align"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"wit",
+				"withErrors"
+			],
+			[
+				"App",
+				"App\\Comment"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"us",
+				"use"
+			],
+			[
+				"Pac",
+				"PagesController"
+			],
+			[
+				"wi",
+				"withPage"
+			],
+			[
+				"Auth",
+				"Auth\\AuthController"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"Re",
+				"Redirect"
+			],
+			[
+				"R",
+				"Request"
+			],
+			[
+				"Pag",
+				"Page"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 1499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/gxpj.blade.php",
+			"settings":
+			{
+				"buffer_size": 2899,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/enrollment.blade.php",
+			"settings":
+			{
+				"buffer_size": 2441,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/course.blade.php",
+			"settings":
+			{
+				"buffer_size": 2370,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 578,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 2208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/AdminHome.blade.php",
+			"settings":
+			{
+				"buffer_size": 969,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/test.php",
+			"settings":
+			{
+				"buffer_size": 164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 795,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packg",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"packagei",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 207.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/WebDeploy/gxpj/public/css/style.css",
+		"/G/WebDeploy/gxpj/public/css/app.css",
+		"/G/WebDeploy/gxpj/resources/views/AdminHome.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/index.blade.php",
+		"/G/WebDeploy/gxpj/public/index.php",
+		"/G/WebDeploy/gxpj/resources/views/enrollment.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/course.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/books.blade.php",
+		"/G/WebDeploy/gxpj/app/Http/Controllers/gxpj_main.php",
+		"/G/WebDeploy/gxpj/app/Http/Controllers/WelcomeController.php",
+		"/G/WebDeploy/gxpj/resources/views/institude.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/model.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/analyst.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/default.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/app.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/home.blade.php",
+		"/G/WebDeploy/gxpj/resources/views/admin/pages/edit.blade.php",
+		"/C/Users/Azlan/Desktop/gxpj/institude.html",
+		"/C/Users/Azlan/Desktop/gxpj/model.html",
+		"/C/Users/Azlan/Desktop/gxpj/course.html",
+		"/C/Users/Azlan/Desktop/gxpj/enrollment.html",
+		"/C/Users/Azlan/Desktop/gxpj/index.html",
+		"/C/Users/Azlan/Desktop/gxpj/books.html",
+		"/C/Users/Azlan/Desktop/gxpj/css/style.css",
+		"/C/Users/Azlan/Desktop/gxpj/analyst.html",
+		"/C/Users/Azlan/Desktop/gxpj/template.html",
+		"/C/Users/Azlan/Desktop/gxpj/js/slider.js",
+		"/C/Users/Azlan/Desktop/gxpj/contact.html",
+		"/G/WebDeploy/gxpj/resources/views/admin/pages/create.blade.php",
+		"/C/Users/Azlan/Desktop/gxpj/slider.html",
+		"/C/Users/Azlan/Desktop/gxpj/css/slider.css",
+		"/C/Users/Azlan/Desktop/鼠标悬停图片上滑动显示文字 在线演示 DIVCSS5_files/style.css",
+		"/C/Users/Azlan/Desktop/gxpj2.azurewebsites.net.PublishSettings",
+		"/C/Users/Azlan/Desktop/自定义轮播/index - Copy.html",
+		"/C/Users/Azlan/Desktop/自定义轮播/index.html",
+		"/C/Users/Azlan/Desktop/gxpj/css/unuse.css",
+		"/G/WebDeploy/gxpj/app/Http/routes.php",
+		"/C/Users/Azlan/Desktop/jiaoben3091/jiaoben3091/index.html",
+		"/C/Users/Azlan/Desktop/gxpj/css/contact.html",
+		"/C/Users/Azlan/Desktop/gxpj/example/The Peace Treaty » Billy Hughes at War _ Museum of Australian Democracy at Old Parliament House_files/screen.css",
+		"/G/WebDeploy/gxpj/resources/views/admin/pages/show.blade.php",
+		"/C/Users/Azlan/Desktop/jiaoben3091/jiaoben3091/js/index.js",
+		"/C/Users/Azlan/Desktop/jiaoben3091/jiaoben3091/css/basic.css",
+		"/C/Users/Azlan/Desktop/jiaoben3091/jiaoben3091/css/style.css",
+		"/C/Users/Azlan/Desktop/20150608错误/20150608错误/20150608错误提示.LOG",
+		"/C/Users/Azlan/Desktop/20150604错误/20150604错误/debugview result 20150604/20150604-1-PC.LOG",
+		"/C/Users/Azlan/Desktop/zq/RFM808/driver/RFM808Device.cpp",
+		"/G/WebDeploy/gxpj/app/Http/Controllers/Admin/PagesController.php",
+		"/G/WebDeploy/gxpj/app/Http/Controllers/HomeController.php",
+		"/G/WebDeploy/gxpj/database/migrations/2015_06_01_141713_create_comments_table.php",
+		"/G/WebDeploy/gxpj/app/Comment.php",
+		"/G/WebDeploy/gxpj/app/Http/Controllers/CommentsController.php",
+		"/G/WebDeploy/gxpj/app/Page.php",
+		"/G/WebDeploy/gxpj/app/Http/Controllers/PagesController.php",
+		"/G/WebDeploy/gxpj/database/migrations/2015_05_31_105711_create_pages_table.php",
+		"/G/WebDeploy/gxpj/database/migrations/2015_05_31_105701_create_articles_table.php",
+		"/G/WebDeploy/gxpj/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/G/WebDeploy/gxpj/resources/views/test.php",
+		"/G/WebDeploy/gxpj/app/Http/Controllers/Admin/AdminHomeController.php",
+		"/G/WebDeploy/gxpj/database/seeds/PageTableSeeder.php",
+		"/G/WebDeploy/gxpj/database/seeds/DatabaseSeeder.php",
+		"/G/WebDeploy/gxpj/database/seeds/UserTableSeeder.php",
+		"/G/WebDeploy/gxpj/config/app.php",
+		"/G/WebDeploy/gxpj/app/User.php",
+		"/G/WebDeploy/gxpj/.env.example",
+		"/G/WebDeploy/gxpj/.env",
+		"/G/WebDeploy/gxpj/gxpj.sublime-workspace",
+		"/G/WebDeploy/gxpj/composer.json",
+		"/G/WebDeploy/laravel-master/app/Http/routes.php",
+		"/G/WebDeploy/gxpj/laravel/app/Http/routes.php",
+		"/G/WebDeploy/gxpj/laravel/public/index.php",
+		"/C/Users/Azlan/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/README.md",
+		"/G/WebDeploy/laravel-master/server.php",
+		"/G/WebDeploy/laravel-master/composer.json",
+		"/G/WebDeploy/laravel-master/app/Http/Kernel.php",
+		"/G/WebDeploy/laravel-master/app/Http/Middleware/Authenticate.php",
+		"/G/WebDeploy/laravel-master/artisan",
+		"/G/WebDeploy/laravel-master/package.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"url",
+			"bottom",
+			"fff",
+			"gxpj_course",
+			"form_contact",
+			">\n",
+			"rigth_panel",
+			"institude_left",
+			"contact_us",
+			"85adc0",
+			"contact_right",
+			"page_title",
+			"analyze_model",
+			"block",
+			"analyze_model_title",
+			"contact_right",
+			"contact_left",
+			"analyze_model",
+			"analyzee_model",
+			"institude",
+			"contact_right",
+			"analyzee_model",
+			"所在地址：北京市东城区东直门北小街青龙胡同1号歌华大厦1303A室",
+			"hr",
+			"footer_nav",
+			"box-shadow",
+			"border",
+			"bold",
+			"contact_left",
+			"font-size",
+			"12px",
+			"position",
+			"main_content",
+			"slide_show",
+			"container",
+			"12px",
+			"980",
+			"banner",
+			"wrapper",
+			"#footer",
+			"#menu",
+			"banner",
+			"contents",
+			"container",
+			"full_container",
+			"bold",
+			"btn",
+			"a:hover",
+			"peace",
+			"RFM_EvtFileClose",
+			"monitor",
+			"kewaitsingle",
+			"IMR",
+			"startwait",
+			"MONITOR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"analyze_model",
+			"#footer_nav",
+			"#menu_nav",
+			"foot_container"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"settings":
+					{
+						"buffer_size": 1499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1499,
+								1499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/gxpj.blade.php",
+					"settings":
+					{
+						"buffer_size": 2899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 107.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/enrollment.blade.php",
+					"settings":
+					{
+						"buffer_size": 2441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2441,
+								2441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1083.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/course.blade.php",
+					"settings":
+					{
+						"buffer_size": 2370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2351,
+								2351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1539.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/app.blade.php",
+					"settings":
+					{
+						"buffer_size": 2208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2136,
+								2136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/AdminHome.blade.php",
+					"settings":
+					{
+						"buffer_size": 969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/home.blade.php",
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/test.php",
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/views/welcome.blade.php",
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}
