@@ -13,7 +13,8 @@ class gxpj_main extends Controller {
 		'model'			=> 3,
 		'course'		=> 4,
 		'books'			=> 5,
-		'enrollment' 	=> 0
+		'hotspot'		=> -1,
+		'enrollment' 	=> -1
 	];
 
 	public function actureView($name){
@@ -51,13 +52,18 @@ class gxpj_main extends Controller {
 		return $this->actureView('course');
 	}
 
-	public function enrollment()
-	{
-		return $this->actureView('enrollment');
-	}
-
 	public function model()
 	{
 		return $this->actureView('model');
+	}
+
+	public function hotspot()
+	{
+		return $this->actureView('hotspot');
+	}
+
+	public function enrollment()
+	{
+		return $this->actureView('enrollment');
 	}
 }

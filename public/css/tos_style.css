@@ -7,19 +7,19 @@ a:hover { text-decoration: underline }
 .tos { width: 880px; }
 .tos .none { display: none !important }
 .tos .wrap { margin: 0 auto; width: 880px }
-.tos .banner { margin-bottom: 10px; z-index: 10 }
+.tos .banner { margin-bottom: 10px; z-index: 10; background-color: #fff;}
 .tos .banner_txt { min-height: 100px; margin-bottom: 20px; background-color: #fff; }
 .tos .banner_txt ul li { font-size: 16px; color: #3f3f3f; line-height: 2.0; padding: 20px 20px;}
 .tos .banner_pic, .tos .banner_txt ul { list-style: none }
-.tos .banner, .tos .banner_box { overflow: hidden; height: 400px; position: relative }
+.tos .banner, .tos .banner_box { overflow: hidden; height: 400px; position: relative; }
 .tos .banner_pic li { height: 100%; left: 0; position: absolute; top: 0; width: 100% }
-.tos .banner_cur { bottom: 10px; left: 0; position: absolute; text-align: center; width: 100% }
+.tos .banner_cur { bottom: 5px; left: 0; position: absolute; text-align: center; width: 100% }
 .tos .banner_cur a { font-size: 0; background: url(#); border: 1px solid #ff5f3e; border-radius: 50%; display: inline-block; height: 10px; margin: 0 5px; width: 10px }
 .tos .banner_cur a.active { background-color: #ff5f3e }
 .tos .banner_prev { left: 0 }
 .tos .banner_next { right: 0 }
 .tos .banner_next, .tos .banner_prev { font-family: "宋体" }
-.tos .banner_next, .tos .banner_prev { color: #e5e5e5; font-size: 60px; height: 60px; line-height: 60px; margin-top: -30px; position: absolute; text-align: center; top: 50%; width: 60px }
+.tos .banner_next, .tos .banner_prev { color: rgba(229, 229, 229, 0.5); font-size: 60px; height: 60px; line-height: 60px; margin-top: -30px; position: absolute; text-align: center; top: 50%; width: 60px }
 .tos .banner_next:hover, .tos .banner_prev:hover { color: #ff5f3e; text-decoration: none }
 .tos .banner_pic .slide_pic { width: 880px; height: 400px; }
 .tos .banner_pic .slide_pic_1 { background: #ffffff url("../img/slider/1.jpg") no-repeat scroll center; }

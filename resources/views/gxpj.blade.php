@@ -5,13 +5,15 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<link type="text/css" rel="stylesheet" href="{{ asset('/css/basic.css') }}" />
-		<link type="text/css" rel="stylesheet" href="{{ asset('/css/n_style.css') }}" />
+		<!--<link rel="icon"type="image/x-icon" href="/img/web.ico" /> -->
+		<link rel="stylesheet" type="text/css" href="{{ asset('/css/basic.css') }}" />
+		<link rel="stylesheet" type="text/css" href="{{ asset('/css/n_style.css') }}" />
 		<script type="text/javascript" src="{{ asset('/js/jquery-1.11.3.min.js') }}"></script>
-		<script type="text/javascript" src="{{ asset('/js/main.js') }}"></script>
+		<script type="text/javascript" src="{{ asset('/js/gxpj.js') }}"></script>
 		<script type="text/javascript">
 			$(document).ready(function(){
-				js_menu().initNavMenu( {{ $menuId }} );
+				js_gxpj().initNavMenu( {{ $menuId }} );
+				js_gxpj().initToTop();
 			});
 		</script>
 	</head>	
@@ -86,9 +88,7 @@
 						<td colspan="3">
 							<div class="copyright">
 								<p>
-									北京市公安局朝阳分局备案编号110xxxxxxxxx&ensp;|&ensp;
-									京ICP证xxxxxx号&ensp;|&ensp;
-									网络文化经营许可证京网文[2015]1234-567号
+									北京市公安局朝阳分局备案编号110xxxxxxxxx&ensp;|&ensp;京ICP证xxxxxx号
 								</p>
 								<p>
 									Copyright&ensp;&copy;&ensp;2004-2015&ensp;国信评价&ensp;版权所有

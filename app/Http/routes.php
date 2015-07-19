@@ -18,6 +18,7 @@ Route::get('institude', 'gxpj_main@institude');
 Route::get('analyst', 'gxpj_main@analyst');
 Route::get('books', 'gxpj_main@books');
 Route::get('course', 'gxpj_main@course');
-Route::get('enrollment', 'gxpj_main@enrollment');
 Route::get('model', 'gxpj_main@model');
 
+Route::get('hotspot', 'gxpj_main@hotspot');
+//Route::get('enrollment', 'gxpj_main@enrollment');
